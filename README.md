@@ -4,7 +4,7 @@ This readme file was generated on [2026-04-01] by [Taina Sakagawa]
 
 # GENERAL INFORMATION
 
-* Title of Dataset: Microcredential_Data
+* Title of Dataset: Microcredential_Data (Not Real Data)
 
 ## Author/Principal Investigator Information
 Name: Taina Sakagawa
@@ -58,10 +58,10 @@ Email: None
 # METHODOLOGICAL INFORMATION
 
 ## Description of methods used for collection/generation of data: 
-Data was collected using proprietary laboratory software and hardware.  Dataset was de-identified and simulated for the purpose of using it as sample data for the Research Data Foundations Camp Microcredential.
+Data was collected using proprietary laboratory software and hardware.  Dataset was de-identified and simulated for the purpose of using it as sample data for the Research Data Foundations Camp Microcredential.  It is not real data.
 
 ## Methods for processing the data: 
-The dataset was extracted from Tableau into a Microsoft Excel csv file.  The dataset was de-identified and modified for simulation data for the purpose of using it as sample data for the Research Data Foundations Camp Microcredential.
+The dataset was extracted from Tableau into a Microsoft Excel csv file.  The dataset was de-identified and modified for simulation data for the purpose of using it as sample data for the Research Data Foundations Camp Microcredential. It is not real data.
 
 ## Instrument- or software-specific information needed to interpret the data: 
 *include full name and version of software, and any necessary packages or libraries needed to run scripts*
